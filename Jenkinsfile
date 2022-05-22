@@ -2,7 +2,7 @@ pipeline {
   stages {
     stage('Initialise') {
       steps() {
-        echo '111 test'
+        echo '222 test'
       }
     }
   }
